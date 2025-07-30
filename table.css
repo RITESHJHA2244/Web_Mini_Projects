@@ -1,0 +1,22 @@
+#table{
+    background-color: aqua;
+    border: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: medium;
+}
+table>caption{
+    color: red;
+    margin-top: 50px;
+    margin-bottom: 10px;
+
+}
+
+.name:hover{
+    color: blue;
+    
+}
+#body:hover{
+    background-color: yellow;
+    color: gray;
+}
